@@ -1,0 +1,3 @@
+# JetpackComposeParentClickEvent
+
+親コンポーネントでもクリックイベントを受け取る
